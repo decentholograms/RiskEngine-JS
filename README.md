@@ -133,7 +133,7 @@ npm -v   # Should be ≥ 6.0
 ### **1. Basic Integration with Express.js**
 ```javascript
 import express from 'express';
-import { RiskEngine } from 'risk-engine-js';
+import RiskEngine from 'risk-engine-js';
 import createAntiAbuseMiddleware from 'risk-engine-js/middleware/antiAbuse';
 
 const app = express();
@@ -192,7 +192,7 @@ app.listen(PORT, () => {
 
 ### **2. Evaluating a User's Risk Score**
 ```javascript
-import { RiskEngine } from 'risk-engine-js';
+import RiskEngine from 'risk-engine-js';
 
 const riskEngine = new RiskEngine();
 
@@ -263,7 +263,6 @@ RiskEngine-JS/
 │   │   └── TimeSeriesAnalyzer.js
 │   └── index.js            # Main exports
 ├── server.js               # Demo server
-├── test/                   # Test files
 ├── package.json
 ├── README.md               # This file
 └── LICENSE                 # MIT License
@@ -305,28 +304,10 @@ const riskEngine = new RiskEngine({
 
 ---
 
-## 🤝 **Contributing**
-
-We welcome contributions from the community! Here's how you can get involved:
-
-### **How to Contribute**
-1. **Fork the repository** and clone it locally.
-2. **Create a new branch** for your feature or bug fix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. **Make your changes** and ensure they follow the project's coding standards.
-4. **Write tests** for your changes (if applicable).
-5. **Commit your changes** with a clear message:
-   ```bash
-   git commit -m "feat: add new pattern detection for scraping"
-   ```
-6. **Push to your fork** and open a **Pull Request** to the `main` branch.
-
 ### **Development Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RiskEngine-JS.git
+   git clone https://github.com/decentholograns/RiskEngine-JS.git
    cd RiskEngine-JS
    ```
 2. Install development dependencies:
@@ -366,11 +347,7 @@ RiskEngine-JS is released under the **MIT License**. See the [LICENSE](LICENSE) 
 ## 👥 **Authors & Contributors**
 
 ### **Maintainers**
-- **Frannn** – [@frannn](https://github.com/frannn) (Initial development)
-
-### **Contributors**
-A huge thank you to all the contributors who have helped improve RiskEngine-JS:
-- [Contributors List](https://github.com/yourusername/RiskEngine-JS/graphs/contributors)
+- **FrannnDev** – [@FrannnDev](https://github.com/decentholograms) (Initial development)
 
 ### **Acknowledgments**
 - Inspired by **statistical anomaly detection** techniques from machine learning research.
@@ -383,14 +360,12 @@ A huge thank you to all the contributors who have helped improve RiskEngine-JS:
 
 ### **Reporting Issues**
 If you encounter a bug or have a feature request, please:
-1. Check the [GitHub Issues](https://github.com/yourusername/RiskEngine-JS/issues) for existing discussions.
+1. Check the [GitHub Issues](https://github.com/decentholograms/RiskEngine-JS/issues) for existing discussions.
 2. Open a new issue with a clear title and description.
 3. Include **reproducible steps**, **error logs**, and **expected behavior**.
 
 ### **Getting Help**
-- **Discussions**: Join our [GitHub Discussions](https://github.com/yourusername/RiskEngine-JS/discussions) for general questions.
-- **Community**: Reach out to us on [Twitter](https://twitter.com/yourhandle) or [Slack](https://your-slack-invite-link).
-- **Email**: For urgent support, email **support@riskengine-js.com**.
+- **Discussions**: Join our [GitHub Discussions](https://github.com/decentholograms/RiskEngine-JS/discussions) for general questions.
 
 ### **FAQ**
 **Q: Can I use RiskEngine-JS in production?**
@@ -431,9 +406,6 @@ A: While RiskEngine-JS is designed for Express.js, you can extract the core logi
 
 RiskEngine-JS is your **first line of defense** against abuse, cheating, and automated attacks. Whether you're protecting a web app, API, or gaming platform, RiskEngine provides **real-time, adaptive security** that grows with your application.
 
-🔗 **[GitHub Repository](https://github.com/yourusername/RiskEngine-JS)**
-📦 **[npm Package](https://www.npmjs.com/package/risk-engine-js)**
-💬 **[Join the Discussion](https://github.com/yourusername/RiskEngine-JS/discussions)**
-
-**Let's build a safer web together!** 🛡️
+🔗 **[GitHub Repository](https://github.com/decentholograms/RiskEngine-JS)**
+💬 **[Join the Discussion](https://github.com/decentholograms/RiskEngine-JS/discussions)**
 ```
