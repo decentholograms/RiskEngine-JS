@@ -1,4 +1,4 @@
-# RiskEngine-JS 🛡️⚡
+# RiskEngine-JS
 
 **Advanced Behavior-Based Anti-Abuse & Anti-Cheat Engine for JavaScript Applications**
 
