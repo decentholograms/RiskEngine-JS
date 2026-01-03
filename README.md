@@ -13,7 +13,8 @@
 RiskEngine-JS is a **cutting-edge behavior-based security system** designed to protect your web applications, APIs, and real-time systems from abuse, cheating, and automated attacks. By analyzing user behavior patterns using **statistical analysis, anomaly detection, and machine learning techniques**, RiskEngine dynamically calculates risk scores and applies **adaptive mitigation strategies** to keep your platform secure.
 
 ### **Key Features**
-✅ **Multi-layered Risk Scoring** – Combines behavior analysis, pattern detection, rate limiting, and device fingerprinting\n
+✅ **Multi-layered Risk Scoring** – Combines behavior analysis, pattern detection, rate limiting, and device fingerprinting
+
 ✅ **Adaptive Mitigation** – Automatically adjusts to new threats with configurable risk thresholds
 ✅ **Real-time Protection** – Integrates seamlessly with Express.js and other web frameworks
 ✅ **Behavior Profiling** – Detects anomalies in user interaction patterns
