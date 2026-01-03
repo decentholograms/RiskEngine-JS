@@ -1,4 +1,3 @@
-```markdown
 # RiskEngine-JS 🛡️⚡
 
 **Advanced Behavior-Based Anti-Abuse & Anti-Cheat Engine for JavaScript Applications**
@@ -86,7 +85,6 @@ RiskEngine-JS is a **cutting-edge behavior-based security system** designed to p
 - **npm** or **yarn** for package management
 - **Express.js** (for middleware integration)
 
----
 
 ## 📦 **Installation**
 
