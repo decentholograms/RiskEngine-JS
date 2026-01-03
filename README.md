@@ -5,8 +5,6 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/RiskEngine-JS/blob/main/LICENSE)
 [![JavaScript Version](https://img.shields.io/badge/javascript-%3E%3D4.0-blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0-green)](https://nodejs.org/)
-[![Stars](https://img.shields.io/github/stars/yourusername/RiskEngine-JS?style=social)](https://github.com/yourusername/RiskEngine-JS/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/RiskEngine-JS)](https://github.com/yourusername/RiskEngine-JS/graphs/contributors)
 
 ---
 
