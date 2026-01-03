@@ -344,7 +344,7 @@ RiskEngine-JS is released under the **MIT License**. See the [LICENSE](LICENSE) 
 
 ---
 
-## 👥 **Authors & Contributors**
+## 👥 **Author**
 
 ### **Maintainers**
 - **FrannnDev** – [@FrannnDev](https://github.com/decentholograms) (Initial development)
@@ -408,4 +408,4 @@ RiskEngine-JS is your **first line of defense** against abuse, cheating, and aut
 
 🔗 **[GitHub Repository](https://github.com/decentholograms/RiskEngine-JS)**
 💬 **[Join the Discussion](https://github.com/decentholograms/RiskEngine-JS/discussions)**
-```
+
