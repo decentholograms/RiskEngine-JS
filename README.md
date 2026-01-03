@@ -83,6 +83,7 @@ RiskEngine-JS is a **cutting-edge behavior-based security system** designed to p
 - **npm** or **yarn** for package management
 - **Express.js** (for middleware integration)
 
+---
 
 ## 📦 **Installation**
 
@@ -97,7 +98,7 @@ npm -v   # Should be ≥ 6.0
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/RiskEngine-JS.git
+   git clone https://github.com/decentholograms/RiskEngine-JS.git
    cd RiskEngine-JS
    ```
 
@@ -132,7 +133,7 @@ We plan to provide a Docker image for easy deployment in containerized environme
 #### **Development Setup**
 For contributing to the project:
 ```bash
-git clone https://github.com/yourusername/RiskEngine-JS.git
+git clone https://github.com/decentholograms/RiskEngine-JS.git
 cd RiskEngine-JS
 npm install --dev
 npm run dev  # Runs with watch mode for development
