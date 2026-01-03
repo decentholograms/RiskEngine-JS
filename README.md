@@ -126,27 +126,6 @@ npm -v   # Should be ≥ 6.0
    - `/metrics` – Risk engine statistics
    - `/api/users` – Example protected endpoint
 
-### **Alternative Installation Methods**
-
-#### **Using npm/yarn (Recommended)**
-```bash
-npm install risk-engine-js
-# or
-yarn add risk-engine-js
-```
-
-#### **Docker Setup (Coming Soon)**
-We plan to provide a Docker image for easy deployment in containerized environments.
-
-#### **Development Setup**
-For contributing to the project:
-```bash
-git clone https://github.com/decentholograms/RiskEngine-JS.git
-cd RiskEngine-JS
-npm install --dev
-npm run dev  # Runs with watch mode for development
-```
-
 ---
 
 ## 🎯 **Usage Examples**
